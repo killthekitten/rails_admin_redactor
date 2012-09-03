@@ -17,4 +17,5 @@ Gem::Specification.new do |s|
 
   s.add_dependency "rails", "~> 3.2"
   s.add_dependency 'rails_admin', '>= 0.0.1'
+  s.add_dependency 'redactor-rails'
 end
